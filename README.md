@@ -32,7 +32,7 @@ My favorite dinosaur is the Triceratops. ✶⋆.˚
 
 -   CodeSignal: https://codesignal.com/learn/profile/cmd813w2r003ojl04h9ne92w8
 -   LinkedIn: https://www.linkedin.com/in/sophia-trindade
--   Portfolio: https://
+-   Portfolio: https://sopynya.github.io/PortfolioEN/
 
 ------------------------------------------------------------------------
 

@@ -11,9 +11,6 @@ I’m most experienced as a front-end developer, but I also enjoy working across
 
 ## What I Know
 
-List the tools, languages, and technologies you feel comfortable with.\
-You can organize them like this:
-
 -   Languages: JS, python, HTML, css, TS
 -   Frameworks / Libraries: React, Next, Nest, express
 -   Databases: PostgreSQL, mongoDB, mySQL

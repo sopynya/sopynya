@@ -11,10 +11,10 @@ I’m most experienced as a front-end developer, but I also enjoy working across
 
 ## What I Know
 
--   Languages: JS, python, HTML, css, TS
--   Frameworks / Libraries: React, Next, Nest, express
--   Databases: PostgreSQL, mongoDB, mySQL
--   Tools / Other: Git & GitHub, Node.js, REST/JSON APIs, VS Code, Neon, Baas (e.g., supabase), basic deployment (e.g., Vercel)
+-   Languages: JavaScript (ES6+), TypeScript, SQL, HTML5, CSS3
+-   Frontend: React, Next.js, Vue, Nuxt.js, Tailwind CSS, CSS Modules, MUI, Zustand, TanStack Query, Axios, Vite
+-   Databases: PostgreSQL, MySQL, MongoDB, SQLite, Prisma,Mongoose, Neon, Supabase
+-   Tools / Other: Playwright, Jest, Git, GitHub, VS Code, Vercel, dotenv, REST APIs
 
 ## What I'm Exploring Next
 
@@ -29,7 +29,7 @@ My favorite dinosaur is the Triceratops. ✶⋆.˚
 
 -   CodeSignal: https://codesignal.com/learn/profile/cmd813w2r003ojl04h9ne92w8
 -   LinkedIn: https://www.linkedin.com/in/sophia-trindade
--   Portfolio: https://sopynya.github.io/PortfolioEN/
+-   Portfolio: https://sopynya.github.io/PortfolioEN
 
 ------------------------------------------------------------------------
 

@@ -13,7 +13,8 @@ I’m most experienced as a front-end developer, but I also enjoy working across
 
 -   Languages: JavaScript (ES6+), TypeScript, SQL, HTML5, CSS3
 -   Frontend: React, Next.js, Vue, Nuxt.js, Tailwind CSS, CSS Modules, MUI, Zustand, TanStack Query, Axios, Vite
--   Databases: PostgreSQL, MySQL, MongoDB, SQLite, Prisma,Mongoose, Neon, Supabase
+-   Backend: Node.js, Express, NestJS, REST APIs, JWT Authentication, bcrypt, Zod, jose
+-   Databases: PostgreSQL, MySQL, MongoDB, SQLite, Prisma, Neon, Supabase
 -   Tools / Other: Playwright, Jest, Git, GitHub, VS Code, Vercel, dotenv, REST APIs
 
 ## What I'm Exploring Next

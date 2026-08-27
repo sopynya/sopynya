@@ -19,7 +19,7 @@ I’m most experienced as a front-end developer, but I also enjoy working across
 
 ## What I'm Exploring Next
 
-I'm focused on getting deeper into backend coding (˶ᵔ ᵕ ᵔ˶)
+old web cute designs (˶ᵔ ᵕ ᵔ˶)
 
 ## Things I Enjoy
 

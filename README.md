@@ -1,13 +1,9 @@
-# Hello!! Welcome to my profile ꉂ(˵˃ ᗜ ˂˵)
-
-> Quietly crafting projects and dreaming about what comes next.
-
-## About Me
-
-I’ve been curious about how technology works since I was young, and coding became a natural path for me. I enjoy scientific ideas, structured databases, and writing code with careful attention to detail.
-
-
-I’m most experienced as a front-end developer, but I also enjoy working across full-stack and backend when I can design systems that are clear and well-organized. I’m always learning, experimenting, and building with intention.
+<div align="center">
+  <h1>Hello!! Welcome to my profile ꉂ(˵˃ ᗜ ˂˵)</h1>
+  <img width="30%" alt="Mayuri Shiina banner Steins;Gate" align="left" src="" />
+  <h2>About me</h2>
+  <p>I'm a full-stack developer, cute designs, big databases and user security are my favorite topics when it comes to coding!</p>
+</div>
 
 ## What I Know
 
@@ -35,19 +31,3 @@ My favorite dinosaur is the Triceratops. ✶⋆.˚
 ------------------------------------------------------------------------
 
 Thanks for reading ♡ 
-
-
-<!--
-**sopynya/sopynya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

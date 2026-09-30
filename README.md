@@ -1,26 +1,26 @@
-<div align="center">
-  <h1>Hello!! Welcome to my profile ꉂ(˵˃ ᗜ ˂˵)</h1>
-  <img width="30%" alt="Mayuri Shiina banner Steins;Gate" align="left" src="" />
-  <h2>About me</h2>
-  <p>I'm a full-stack developer, cute designs, big databases and user security are my favorite topics when it comes to coding!</p>
-</div>
+<h1 align="center">Hello!! Welcome to my profile ꉂ(˵˃ ᗜ ˂˵)</h1>
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="30%" valign="top">
+      <img src="./assets/kiki.jpg" />
+    </td>
+    <td valign="top">
+      <h2>About me</h2>
+      <p>I'm a full-stack developer, cute designs, big databases and user security are my favorite topics when it comes to coding! <br> I love cats, dinosaurs and aquatic creatures (my favorite dinosaur is the triceratops (˶ᵔ ᵕ ᵔ˶))</p>
+    </td>
+  </tr>
 
-## What I Know
+  
+</table>
+  
+
+<h2>What I Know</h2>
 
 -   Languages: JavaScript (ES6+), TypeScript, SQL, HTML5, CSS3
 -   Frontend: React, Next.js, Vue, Nuxt.js, Tailwind CSS, CSS Modules, MUI, Zustand, TanStack Query, Axios, Vite
 -   Backend: Node.js, Express, NestJS, REST APIs, JWT Authentication, bcrypt, Zod, jose
 -   Databases: PostgreSQL, MySQL, MongoDB, SQLite, Prisma, Neon, Supabase
 -   Tools / Other: Playwright, Jest, Git, GitHub, VS Code, Vercel, dotenv, REST APIs
-
-## What I'm Exploring Next
-
-old web cute designs (˶ᵔ ᵕ ᵔ˶)
-
-## Things I Enjoy
-
-I like games, cute things, dinosaurs, cats, aquatic creatures and the nature in general.\
-My favorite dinosaur is the Triceratops. ✶⋆.˚
 
 ## Find Me Elsewhere
 
@@ -29,5 +29,6 @@ My favorite dinosaur is the Triceratops. ✶⋆.˚
 -   Portfolio: https://sopynya.github.io/PortfolioEN
 
 ------------------------------------------------------------------------
+lets bring old web and cute moe designs back 
 
 Thanks for reading ♡ 

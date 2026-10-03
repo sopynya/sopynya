@@ -11,8 +11,8 @@
 
 <p align="center">
     <img height="40px" src="https://64.media.tumblr.com/77b9a9bd98bceff50c561717a1679891/7a5cdf9751b23969-f0/s250x400/b35a136852de29ad1f88f30704c526913c7820d1.gifv">
-    <a href="https://www.linkedin.com/in/sophia-trindade"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-    <a href="https://codesignal.com/learn/profile/cmd813w2r003ojl04h9ne92w8"><img src="https://img.shields.io/badge/CodeSignal-1062FB?style=for-the-badge&logo=codesignal&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/sophia-trindade"><img src="https://img.shields.io/badge/LinkedIn-d6c578?style=for-the-badge"></a>
+    <a href="https://codesignal.com/learn/profile/cmd813w2r003ojl04h9ne92w8"><img src="https://img.shields.io/badge/CodeSignal-ede9d1?style=for-the-badge"></a>
     <img height="40px" src="https://64.media.tumblr.com/77b9a9bd98bceff50c561717a1679891/7a5cdf9751b23969-f0/s250x400/b35a136852de29ad1f88f30704c526913c7820d1.gifv">
 </p>
 
